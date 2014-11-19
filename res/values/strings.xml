@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CapChat</string>
+    <string name="title_activity_team">Team</string>
+    <string name="default_output">Hello World</string>
+    
+    <string name="jan">Jan Van Bruggen</string>
+    <string name="victor">Victor Duan</string>
+    <string name="jamie">Jamie (Chenxi) Zhang</string>
+
+</resources>
